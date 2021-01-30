@@ -3,5 +3,15 @@
     "firstName": "adfsadf",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
+  },
+  "Lawrence Hill": {
+    "firstName": "Lawrence",
+    "lastName": "Hill",
+    "phoneNumber": "9019019010"
+  },
+  "Thomas Paine": {
+    "firstName": "Thomas",
+    "lastName": "Paine",
+    "phoneNumber": "9283828121"
   }
 }

@@ -1,4 +1,3 @@
-window.App = window.App || {}
 
 window.App.getUserById = (id, cb) => {
   // simulate API call

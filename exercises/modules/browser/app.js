@@ -22,6 +22,7 @@ window.App.showUserProfile = (userId, cb) => {
       </div>
     `
     cb(user)
+    return profil
   })
 }
 
